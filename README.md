@@ -1,2 +1,2 @@
 # GraphCQL
-.. soon ;)
+not so .. soon ;)
